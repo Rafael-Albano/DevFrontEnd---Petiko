@@ -1,0 +1,15 @@
+.form-estilo {
+    width: 70%
+}
+
+.form-position {
+    padding-bottom: 2.5rem;
+    margin: auto auto;
+}
+
+.ajuste-form{
+    background-color:lightgrey;
+    border: 2px dashed darkgrey;
+    margin: 3rem auto;
+    width: 50%;
+}

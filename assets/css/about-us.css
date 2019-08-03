@@ -1,0 +1,20 @@
+
+.titulo-principal h1::after {
+    content: "";
+    display: block;
+    background: black;
+    width: 100px;
+    height: 2px;
+    margin: 20px auto;
+}
+
+.texto-artigo, 
+.img-artigo {
+    margin-top: 1.5rem;
+}
+
+
+
+.texto-artigo p {
+    text-align: justify;
+}
